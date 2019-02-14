@@ -5,7 +5,7 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Link para o curso [Python Pro](https://www.python.pro.br/)
 
-[![Build Status](https://travis-ci.org/alvesgabriel/libpythonpro.svg?branch=master)](https://travis-ci.org/alvesgabriel/libpythonpro)
+[![Build Status](https://travis-ci.com/alvesgabriel/libpythonpro.svg?branch=master)](https://travis-ci.com/alvesgabriel/libpythonpro)
 [![Updates](https://pyup.io/repos/github/alvesgabriel/libpythonpro/shield.svg)](https://pyup.io/repos/github/alvesgabriel/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/alvesgabriel/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/alvesgabriel/libpythonpro/)
 [![codecov](https://codecov.io/gh/alvesgabriel/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/alvesgabriel/libpythonpro)
