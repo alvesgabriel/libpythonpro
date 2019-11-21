@@ -180,11 +180,10 @@
         },
         "pytest-mock": {
             "hashes": [
-                "sha256:4d0d06d173eecf172703219a71dbd4ade0e13904e6bbce1ce660e2e0dc78b5c4",
-                "sha256:bfdf02789e3d197bd682a758cae0a4a18706566395fbe2803badcd1335e0173e"
+                "sha256:96a0cebc66e09930be2a15b03333d90b59584d3fb011924f81c14b50ee0afbba",
+                "sha256:e5381be2608e49547f5e47633c5f81241ebf6206d17ce516a7a18d5a917e3859"
             ],
-            "index": "pypi",
-            "version": "==1.10.1"
+            "version": "==1.12.1"
         },
         "six": {
             "hashes": [
